@@ -25,8 +25,6 @@ public class lab3_a1_input_file {
 		}
 
 		System.out.println("\nTotal number of characters in the file: " + charCount);
-		
-		// test
 
 	}
 
