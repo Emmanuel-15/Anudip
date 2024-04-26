@@ -1,4 +1,4 @@
-package temp;
+package practise;
 
 import java.util.Scanner;
 

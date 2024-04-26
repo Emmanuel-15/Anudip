@@ -1,4 +1,4 @@
-package temp;
+package practise;
 
 interface MathOperation {
 	int operate(int a, int b);
